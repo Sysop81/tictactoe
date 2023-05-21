@@ -1,0 +1,36 @@
+
+.height-div-login{
+  min-height: 100vh;
+}
+
+.btn-max-width{
+  width: 100%;
+}
+
+.td-board-game{
+  width: 20vw;
+  height: 20vh;
+  vertical-align: middle;
+  text-align: center;
+  font-weight: bold;
+  font-size: 4em;
+}
+
+.container{
+  max-width: 800px;
+}
+
+.show{
+  display: block !important;
+}
+
+.header {
+  background-color: #282c34;
+  min-height: 5vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
